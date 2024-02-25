@@ -1,0 +1,6 @@
+[submodule "src/FileParserService"]
+	path = src/FileParserService
+	url = git@github.com:Ranevsky/FileParserService.git
+[submodule "src/DataProcessorService"]
+	path = src/DataProcessorService
+	url = git@github.com:Ranevsky/DataProcessorService.git
